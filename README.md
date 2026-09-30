@@ -117,15 +117,15 @@ flowchart TB
 |---:|---|---|---|
 | 01 | Identidade e saneamento | 🐂 **DAR NOME AOS BOIS** | 🟡 Planejado |
 | 02 | UOs e grupos | 🏠 **ARRUMANDO A CASA** | 🟡 Planejado |
-| 03 | Políticas | 🛡️ **CADA MACACO COM SUA REGRA** | 🟡 Planejado |
+| 03 | Políticas | 🛡️ **CADA MACACO NO SEU GALHO** | 🟡 Planejado |
 | 04 | Governança de e-mail | 📧 **CADA E-MAIL NO SEU LUGAR** | 🟡 Planejado |
 | 05 | Catch-all e endereços históricos | 🕳️ **CAIXA PRETA** | 🟡 Planejado |
 | 06 | Permissões | 🔐 **CADA UM NO SEU QUADRADO** | 🟡 Planejado |
 | 07 | Shared Drives | 🗄️ **CADA COISA NO SEU ARMÁRIO** | 🟡 Planejado |
-| 08 | Inventário do servidor | 🌊 **PRÉ DILUVIO** | 🟡 Planejado |
+| 08 | Inventário do servidor de arquivos | 🌊 **PRÉ DILUVIO** | 🟡 Planejado |
 | 09 | Classificação dos arquivos | 🧹 **LIXO QUE NÃO SE JOGA FORA** | 🟡 Planejado |
 | 10 | Piloto | 🧪 **PRIMEIRO A GENTE TESTA** | 🟡 Planejado |
-| 11 | Migração | 🚚 **MUDANDO A CASA SEM PERDER A MUDANÇA** | 🟡 Planejado |
+| 11 | Migração | ⛵ **ARCA DE NOÉ** | 🟡 Planejado |
 | 12 | Validação | 🔎 **E AGORA, DEU CERTO?** | 🟡 Planejado |
 | 13 | Transição | 🔄 **UM PÉ NO NOVO, OUTRO NO ANTIGO** | 🟡 Planejado |
 | 14 | Desativação do legado | 🧓 **APOSENTANDO O VELHO GUERREIRO** | 🟡 Planejado |
