@@ -116,13 +116,13 @@ flowchart TB
 | # | Etapa | Codinome | Status |
 |---:|---|---|---|
 | 01 | Identidade e saneamento | 🐂 **DAR NOME AOS BOIS** | 🟡 Planejado |
-| 02 | UOs e grupos | 🐒 **CADA MACACO NO SEU GALHO** | 🟡 Planejado |
+| 02 | UOs e grupos | 🏠 **ARRUMANDO A CASA** | 🟡 Planejado |
 | 03 | Políticas | 🛡️ **CADA MACACO COM SUA REGRA** | 🟡 Planejado |
 | 04 | Governança de e-mail | 📧 **CADA E-MAIL NO SEU LUGAR** | 🟡 Planejado |
-| 05 | Catch-all e endereços históricos | 🕳️ **ABRIR A CAIXA PRETA** | 🟡 Planejado |
+| 05 | Catch-all e endereços históricos | 🕳️ **CAIXA PRETA** | 🟡 Planejado |
 | 06 | Permissões | 🔐 **CADA UM NO SEU QUADRADO** | 🟡 Planejado |
 | 07 | Shared Drives | 🗄️ **CADA COISA NO SEU ARMÁRIO** | 🟡 Planejado |
-| 08 | Inventário do servidor | 🏚️ **VAMOS VER O QUE TEM NESSE PORÃO** | 🟡 Planejado |
+| 08 | Inventário do servidor | 🌊 **PRÉ DILUVIO** | 🟡 Planejado |
 | 09 | Classificação dos arquivos | 🧹 **LIXO QUE NÃO SE JOGA FORA** | 🟡 Planejado |
 | 10 | Piloto | 🧪 **PRIMEIRO A GENTE TESTA** | 🟡 Planejado |
 | 11 | Migração | 🚚 **MUDANDO A CASA SEM PERDER A MUDANÇA** | 🟡 Planejado |
